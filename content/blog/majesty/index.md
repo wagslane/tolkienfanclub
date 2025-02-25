@@ -8,7 +8,7 @@
 > I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers.
 > I think that many confuse 'applicability' with 'allegory'; but the one resides in the freedom of the reader, and the other in the purposed domination of the author."
 
-In the annals of fantasy literature and the broader realm of creative world-building, few sagas can rival the intricate tapestry woven by J.R.R. Tolkien in _The Lord of the Rings_. You can find the [wiki here](https://lotr.fandom.com/wiki/Main_Page).
+In the annals of fantasy literature and the broader realm of creative world-building, few sagas can rival the intricate tapestry woven by J.R.R. Tolkien in _The Lord of the Rings_. You can find the [wiki here](https://lotr.fandom.com/wiki/Legendarium).
 
 ## Introduction
 
